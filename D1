@@ -1,0 +1,26 @@
+//1.2.1
+printf("Hello World");
+
+// 1.2.2
+printf("Bardzo \ndlugi \nnapis");
+
+//1.2.3
+printf("Napis zawierajacy rozne dziwne znaczki %/%/ %\ %\ %$ %& %%");
+
+// 1.2.4
+int A;
+printf("Podaj A: ");
+scanf("%d", &A);
+printf("Liczba to: %d", A);
+
+//1.2.5
+float A;
+printf("Podaj A: ");
+scanf("%f", &A);
+printf("Liczba to: %f", A);
+
+//1.2.6
+float a,b,c;
+printf("Podaj trzy liczby: \n");
+scanf("%f %f %f",&a,&b,&c);
+printf("Liczba A: %f \nLiczba B: %f \nLiczba C: %f\n",a,b,c);
